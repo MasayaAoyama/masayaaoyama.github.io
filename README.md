@@ -1,9 +1,9 @@
 # Portfolio pages
 
 * Japanese
-  * https://masayaaoyama.github.io/portfolio/index.html
+  * https://amsy.dev
 * English
-  * https://masayaaoyama.github.io/portfolio/en/index.html
+  * https://amsy.dev/en
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
